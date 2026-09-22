@@ -37,7 +37,7 @@ contador de frecuencia de letras y un generador de texto por cadenas de Markov, 
 sobre el `quijote.txt` incluido. Algunos archivos (`calculos.py`, `carro.py`) quedaron
 incompletos o rotos — se dejan tal cual, por ser práctica de clase y no código de producción.
 
-### Cómo correrlo
+## Cómo correrlo
 
 Requiere Python 3. Cada script es independiente:
 
@@ -52,10 +52,10 @@ python carro.py             # roto: .format() sobre el valor de retorno de print
 
 Verificado con Python 3.12 el 2026-09-22.
 
-### Autor
+## Autor
 
 Yoichi Palacios Tanaka (IchiSieben) · ichisieben.dev
 
-### Licencia
+## Licencia
 
 Apache-2.0 (ver `LICENSE`).
